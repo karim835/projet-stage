@@ -1,0 +1,351 @@
+student_id,course_category,average_score,quiz_attempts,completed_courses,total_courses,time_spent_hours,completion_rate,login_frequency,failed_quizzes,satisfaction_score,true_profile
+STU0001,Web,59.1,6,9,13,24.06,68.83,5,1,2.59,Moyen
+STU0002,Management,81.93,10,7,8,34.58,83.8,7,0,4.41,Avancé
+STU0003,Management,51.1,5,8,14,21.79,56.33,2,3,3.02,Débutant
+STU0004,Python,54.74,4,4,8,24.61,54.6,4,3,3.88,Débutant
+STU0005,Management,57.88,5,7,9,19.65,78.1,4,2,2.51,Moyen
+STU0006,Communication,78.94,7,11,14,38.69,75.33,4,0,4.58,Avancé
+STU0007,Data,32.91,6,5,10,36.78,54.18,2,5,3.35,En difficulté
+STU0008,Web,55.93,8,8,10,36.03,78.2,4,1,3.56,Moyen
+STU0009,Python,52.46,6,4,8,29.39,50.07,4,3,2.42,En difficulté
+STU0010,Data,75.23,8,5,7,34.59,65.23,5,1,4.41,Moyen
+STU0011,Management,47.24,7,6,12,37.51,49.93,3,6,2.46,En difficulté
+STU0012,Web,65.93,6,8,12,30.09,70.53,3,2,3.75,Moyen
+STU0013,Python,64.84,7,8,13,23.44,61.53,5,2,3.36,Moyen
+STU0014,Python,67.88,7,4,6,27.79,64.67,5,2,2.64,Moyen
+STU0015,Management,67.48,8,7,10,36.53,69.14,3,2,4.32,Moyen
+STU0016,Management,85.27,6,8,10,23.05,79.78,5,2,3.96,Moyen
+STU0017,Management,64.62,0,2,8,10.4,21.11,1,0,3.46,Peu actif
+STU0018,Data,73.75,6,6,12,20.68,53.58,5,2,3.87,Moyen
+STU0019,Management,49.52,5,8,14,35.56,58.1,4,5,2.45,En difficulté
+STU0020,Web,53.08,6,7,14,23.26,52.53,2,1,3.11,Débutant
+STU0021,Management,39.98,9,6,13,32.32,46.59,2,6,2.22,En difficulté
+STU0022,Communication,53.52,4,1,8,0.33,17.86,1,1,2.21,Peu actif
+STU0023,Communication,60.2,8,6,8,36.84,74.45,5,2,3.12,Moyen
+STU0024,Management,54.73,7,7,10,41.04,65.47,2,2,3.04,Débutant
+STU0025,Communication,29.36,7,7,14,26.51,52.24,2,4,3.12,En difficulté
+STU0026,Python,55.68,2,3,12,7.62,24.27,0,3,2.17,Peu actif
+STU0027,Data,69.71,5,6,11,21.53,50.05,4,1,3.72,Moyen
+STU0028,Data,59.8,4,6,12,42.23,50.8,5,1,3.82,Moyen
+STU0029,Management,43.64,8,8,8,23.13,100.0,2,6,2.58,En difficulté
+STU0030,Python,73.01,5,5,11,24.5,46.89,3,1,2.13,Débutant
+STU0031,Management,82.7,9,10,10,44.21,96.71,4,0,4.18,Avancé
+STU0032,Management,35.63,6,2,8,25.14,25.63,2,5,2.62,En difficulté
+STU0033,Data,32.41,9,2,6,46.61,36.33,4,5,2.16,En difficulté
+STU0034,Management,69.47,8,6,8,24.3,71.93,5,1,4.43,Moyen
+STU0035,Data,49.88,3,5,10,29.68,51.84,3,2,2.87,Débutant
+STU0036,Communication,52.04,4,6,10,22.07,56.57,4,2,3.9,Débutant
+STU0037,Web,87.39,6,6,7,42.25,83.2,7,1,4.87,Avancé
+STU0038,Data,75.2,7,2,6,17.64,31.57,2,3,3.37,Débutant
+STU0039,Management,63.29,7,10,13,26.53,75.2,3,2,3.86,Moyen
+STU0040,Python,68.41,8,5,7,28.94,70.94,5,1,3.59,Moyen
+STU0041,Python,43.92,8,3,8,38.58,41.97,2,6,3.5,En difficulté
+STU0042,Web,65.39,4,14,14,34.83,100.0,3,2,3.48,Moyen
+STU0043,Management,88.27,9,7,8,54.74,86.96,5,0,4.07,Avancé
+STU0044,Management,77.26,4,5,7,41.4,74.5,3,1,3.76,Moyen
+STU0045,Web,39.81,9,3,7,32.04,46.24,3,5,2.4,En difficulté
+STU0046,Web,49.39,4,4,11,48.61,37.84,3,3,2.59,En difficulté
+STU0047,Communication,62.21,8,6,13,27.61,42.49,4,1,3.26,Moyen
+STU0048,Python,46.56,7,8,13,21.56,62.0,2,4,1.69,En difficulté
+STU0049,Data,68.56,6,11,14,19.47,76.8,3,2,4.02,Moyen
+STU0050,Web,81.09,6,11,14,39.47,80.26,5,0,4.75,Avancé
+STU0051,Python,85.52,5,6,10,23.53,55.3,4,2,2.92,Moyen
+STU0052,Communication,64.04,4,5,8,35.76,64.41,3,1,3.89,Moyen
+STU0053,Web,70.22,0,0,6,7.65,7.7,1,1,3.01,Peu actif
+STU0054,Communication,59.07,5,5,10,18.61,53.96,2,1,3.33,Débutant
+STU0055,Python,68.19,4,4,14,6.81,28.12,1,1,1.49,Peu actif
+STU0056,Web,33.58,0,3,11,7.87,30.35,1,3,2.3,Peu actif
+STU0057,Communication,57.53,7,8,12,31.39,68.84,3,2,3.45,Débutant
+STU0058,Data,47.32,6,5,8,30.92,63.23,3,2,4.17,Débutant
+STU0059,Data,80.02,7,6,9,29.82,65.89,5,2,4.55,Moyen
+STU0060,Python,29.56,4,2,8,9.55,24.44,1,1,1.06,Peu actif
+STU0061,Communication,53.89,7,6,7,35.64,83.0,3,2,3.57,Moyen
+STU0062,Python,61.48,8,4,7,32.1,58.29,3,2,2.53,Moyen
+STU0063,Data,55.08,3,3,6,35.81,55.51,2,3,3.27,Débutant
+STU0064,Data,40.63,7,4,12,6.98,33.37,4,5,2.51,En difficulté
+STU0065,Communication,44.19,9,7,14,13.41,49.67,4,5,1.88,En difficulté
+STU0066,Data,77.52,5,6,9,35.28,67.68,3,2,3.71,Moyen
+STU0067,Data,31.13,9,4,8,45.82,44.95,4,4,2.39,En difficulté
+STU0068,Communication,79.17,5,3,6,29.02,49.28,5,1,3.61,Moyen
+STU0069,Python,82.79,9,7,9,45.26,82.99,6,1,4.47,Avancé
+STU0070,Data,63.34,4,6,10,25.8,61.8,4,3,2.2,Débutant
+STU0071,Communication,70.24,4,4,11,34.11,32.11,5,2,4.09,Moyen
+STU0072,Data,54.22,5,7,12,19.31,60.72,3,1,2.68,Débutant
+STU0073,Python,62.08,0,2,8,6.98,19.23,0,2,3.73,Peu actif
+STU0074,Management,33.96,8,7,11,28.44,67.58,4,6,2.76,En difficulté
+STU0075,Web,42.04,9,3,8,34.59,38.82,3,6,2.39,En difficulté
+STU0076,Communication,53.53,4,5,8,31.11,62.3,3,1,3.05,Débutant
+STU0077,Web,68.15,4,9,10,9.28,85.12,3,1,3.94,Moyen
+STU0078,Web,39.19,5,5,12,29.38,45.82,4,2,3.19,Débutant
+STU0079,Data,34.87,8,2,7,25.75,32.25,4,5,2.45,En difficulté
+STU0080,Communication,52.34,7,6,10,18.89,58.13,4,3,3.97,Débutant
+STU0081,Data,75.71,6,10,13,18.04,76.68,4,1,3.21,Moyen
+STU0082,Communication,53.36,1,1,9,13.63,13.75,0,0,2.37,Peu actif
+STU0083,Python,40.51,3,3,9,7.52,29.71,1,2,1.92,Peu actif
+STU0084,Communication,59.56,8,8,14,33.29,56.25,3,1,3.2,Moyen
+STU0085,Web,54.11,4,3,7,12.93,43.63,3,3,2.43,Débutant
+STU0086,Python,65.92,6,6,13,27.57,46.96,3,2,2.25,Moyen
+STU0087,Python,82.79,7,11,14,28.11,78.52,3,2,3.82,Moyen
+STU0088,Web,56.99,3,5,8,10.72,68.56,2,3,2.68,Débutant
+STU0089,Python,34.97,4,1,7,18.93,13.14,2,3,4.5,En difficulté
+STU0090,Python,51.5,7,0,9,29.82,5.11,3,3,3.81,En difficulté
+STU0091,Management,68.88,5,8,12,42.02,62.79,5,2,3.04,Moyen
+STU0092,Python,36.69,4,8,13,18.71,60.36,4,5,3.21,En difficulté
+STU0093,Management,43.5,5,3,9,34.2,29.2,3,5,3.57,En difficulté
+STU0094,Python,50.08,4,3,7,34.35,43.75,3,3,2.2,Débutant
+STU0095,Data,27.83,5,5,14,23.3,32.76,4,5,3.53,En difficulté
+STU0096,Data,35.8,9,3,6,31.5,48.86,4,6,2.78,En difficulté
+STU0097,Data,88.15,10,7,9,28.4,74.32,6,0,4.65,Avancé
+STU0098,Data,51.14,5,6,14,22.89,45.66,3,2,4.01,Débutant
+STU0099,Communication,65.26,7,8,14,28.88,60.67,3,2,3.35,Débutant
+STU0100,Web,84.89,9,10,11,30.08,94.45,5,1,3.66,Avancé
+STU0101,Web,69.18,8,4,6,17.19,62.33,5,1,3.14,Moyen
+STU0102,Web,60.4,8,8,8,14.24,96.59,3,2,3.75,Moyen
+STU0103,Communication,42.37,5,4,14,26.65,29.27,2,3,2.83,En difficulté
+STU0104,Communication,24.98,6,2,6,24.06,38.99,2,4,3.39,En difficulté
+STU0105,Communication,40.96,7,9,12,36.19,74.19,4,4,3.27,En difficulté
+STU0106,Python,34.92,4,7,12,31.22,54.49,4,6,2.5,En difficulté
+STU0107,Communication,74.55,8,8,12,26.77,66.61,3,1,3.5,Moyen
+STU0108,Web,68.23,5,8,13,38.38,65.36,4,1,4.27,Moyen
+STU0109,Python,65.17,5,7,13,8.67,54.4,4,2,4.07,Débutant
+STU0110,Data,67.07,3,5,8,28.97,65.03,3,1,3.07,Débutant
+STU0111,Management,57.69,2,2,10,6.58,23.28,1,2,3.03,Peu actif
+STU0112,Data,51.99,6,9,13,20.03,72.44,2,1,2.95,Débutant
+STU0113,Web,52.53,7,7,13,21.4,50.51,5,2,3.52,Moyen
+STU0114,Python,48.21,4,1,7,22.28,18.41,1,2,2.47,Peu actif
+STU0115,Data,72.44,8,4,7,18.61,57.53,4,1,3.41,Moyen
+STU0116,Data,42.09,9,4,10,39.38,39.35,2,3,4.35,En difficulté
+STU0117,Web,56.05,8,6,10,36.67,56.41,5,1,3.87,Moyen
+STU0118,Communication,73.76,8,8,10,37.93,77.94,7,0,4.06,Avancé
+STU0119,Web,7.67,8,4,13,38.2,31.95,3,5,4.01,En difficulté
+STU0120,Communication,40.42,7,10,14,37.15,70.97,4,3,2.98,En difficulté
+STU0121,Data,51.44,8,5,10,31.47,54.73,2,5,2.58,En difficulté
+STU0122,Data,39.26,5,4,6,30.46,64.18,2,6,2.83,En difficulté
+STU0123,Communication,69.46,5,6,10,22.34,57.56,4,2,3.52,Débutant
+STU0124,Python,43.67,7,4,11,39.77,35.63,2,5,3.23,En difficulté
+STU0125,Web,100.0,9,7,8,21.72,82.08,7,0,4.35,Avancé
+STU0126,Data,23.69,8,4,9,31.08,38.9,2,6,3.61,En difficulté
+STU0127,Communication,34.64,6,4,10,18.53,39.68,3,3,2.54,En difficulté
+STU0128,Communication,42.27,5,3,7,15.49,46.7,2,3,3.9,Débutant
+STU0129,Management,71.22,5,5,7,31.65,73.28,5,1,3.77,Moyen
+STU0130,Python,81.45,9,11,12,27.27,95.5,6,1,4.34,Avancé
+STU0131,Web,59.29,3,5,13,25.95,36.04,3,3,2.25,Débutant
+STU0132,Python,48.57,1,2,14,13.8,13.22,0,1,1.35,Peu actif
+STU0133,Management,53.1,2,3,11,4.21,29.69,0,3,2.3,Peu actif
+STU0134,Communication,37.01,7,3,6,30.92,45.4,3,3,3.42,En difficulté
+STU0135,Management,78.99,7,10,12,42.58,85.75,5,1,4.17,Avancé
+STU0136,Data,95.8,11,13,14,50.19,95.4,5,0,4.99,Avancé
+STU0137,Data,51.75,3,3,11,14.75,30.22,0,1,2.37,Peu actif
+STU0138,Management,71.17,6,4,8,19.03,49.48,2,3,4.62,Débutant
+STU0139,Management,37.33,6,5,8,10.03,60.64,3,6,3.05,En difficulté
+STU0140,Management,63.98,4,9,13,33.18,67.54,3,1,3.8,Moyen
+STU0141,Data,63.86,6,6,10,24.89,64.22,2,2,4.76,Débutant
+STU0142,Communication,41.3,5,3,7,11.16,48.13,3,2,2.43,Débutant
+STU0143,Management,42.61,9,5,14,27.09,34.72,3,5,2.93,En difficulté
+STU0144,Management,80.34,7,12,14,19.04,86.65,5,2,3.42,Moyen
+STU0145,Data,57.64,7,6,8,21.92,78.93,3,2,3.22,Moyen
+STU0146,Communication,60.9,8,7,10,15.9,70.09,5,2,2.95,Moyen
+STU0147,Data,62.36,6,6,9,38.15,66.64,4,3,4.15,Débutant
+STU0148,Web,46.14,1,2,10,4.83,20.49,0,0,2.22,Peu actif
+STU0149,Python,63.29,5,5,7,26.29,65.11,3,2,4.59,Moyen
+STU0150,Data,54.8,5,6,9,24.82,68.03,4,2,2.68,Débutant
+STU0151,Data,70.21,8,7,12,18.25,57.19,4,1,4.0,Moyen
+STU0152,Python,69.47,4,4,6,31.59,67.0,5,2,3.7,Moyen
+STU0153,Python,59.28,8,9,11,24.48,84.57,4,1,3.1,Moyen
+STU0154,Web,36.64,6,4,11,20.66,37.38,3,6,1.52,En difficulté
+STU0155,Python,45.49,6,7,12,21.01,54.53,4,3,1.67,En difficulté
+STU0156,Web,78.7,8,5,6,25.57,84.04,3,1,2.82,Moyen
+STU0157,Data,69.36,5,7,13,28.26,56.6,4,2,5.0,Moyen
+STU0158,Management,56.88,8,3,7,10.51,45.26,5,1,4.11,Moyen
+STU0159,Data,46.97,2,2,8,2.95,28.92,0,2,2.24,Peu actif
+STU0160,Data,89.23,11,9,9,49.14,100.0,4,0,4.47,Avancé
+STU0161,Python,59.53,7,9,13,29.78,65.76,5,2,4.52,Moyen
+STU0162,Data,68.58,3,8,14,37.75,54.1,3,1,3.35,Débutant
+STU0163,Web,56.78,8,6,7,22.39,85.99,3,2,3.97,Moyen
+STU0164,Web,48.26,6,3,6,17.62,53.55,3,6,4.26,En difficulté
+STU0165,Communication,61.21,9,2,14,46.23,16.62,2,6,3.56,En difficulté
+STU0166,Python,58.83,5,7,12,35.28,54.97,2,3,2.83,Débutant
+STU0167,Python,41.72,5,4,10,38.68,36.99,4,6,2.18,En difficulté
+STU0168,Management,40.81,3,4,10,22.23,39.96,2,3,2.74,Débutant
+STU0169,Data,76.25,5,7,11,15.7,66.3,4,1,3.48,Moyen
+STU0170,Communication,58.34,1,4,9,1.02,44.47,1,2,2.82,Peu actif
+STU0171,Management,79.07,7,6,6,35.55,93.04,5,1,5.0,Avancé
+STU0172,Management,21.97,3,2,10,13.95,20.01,1,2,1.85,Peu actif
+STU0173,Python,57.73,3,4,7,19.15,51.29,3,1,3.03,Débutant
+STU0174,Web,86.61,8,7,7,37.23,93.66,7,0,4.48,Avancé
+STU0175,Data,54.21,7,6,8,7.06,73.4,4,4,3.32,En difficulté
+STU0176,Data,44.12,7,5,9,24.56,53.99,2,4,2.4,En difficulté
+STU0177,Python,53.97,3,5,8,28.52,57.37,3,3,2.89,Débutant
+STU0178,Data,31.8,8,5,9,29.31,50.27,2,4,2.62,En difficulté
+STU0179,Data,68.39,6,9,14,30.23,62.23,5,1,2.93,Moyen
+STU0180,Management,61.81,3,9,12,27.98,71.49,4,3,2.77,Débutant
+STU0181,Data,44.53,7,8,12,38.02,62.51,2,3,3.5,Débutant
+STU0182,Communication,85.1,10,12,12,59.6,95.91,6,0,3.62,Avancé
+STU0183,Communication,66.14,8,3,6,19.05,52.44,5,2,3.65,Moyen
+STU0184,Data,79.04,9,9,10,37.96,87.75,6,0,3.7,Avancé
+STU0185,Data,83.27,7,10,11,25.09,92.43,6,1,3.85,Avancé
+STU0186,Communication,32.98,4,8,13,28.33,60.6,2,4,2.93,En difficulté
+STU0187,Communication,17.11,9,6,13,31.68,43.54,2,6,2.25,En difficulté
+STU0188,Python,86.62,10,8,8,42.6,100.0,4,1,4.84,Avancé
+STU0189,Web,40.37,3,3,8,15.79,37.99,1,2,2.71,Peu actif
+STU0190,Python,78.04,5,9,14,21.95,67.26,5,2,4.1,Moyen
+STU0191,Data,65.42,7,4,7,45.32,61.99,3,2,3.83,Moyen
+STU0192,Web,52.1,7,9,13,32.02,71.99,4,4,2.12,En difficulté
+STU0193,Communication,45.97,6,3,6,36.3,50.57,2,2,3.17,Débutant
+STU0194,Management,70.43,4,7,10,33.51,68.19,3,2,4.66,Moyen
+STU0195,Web,93.87,6,6,7,32.79,81.6,7,1,4.56,Avancé
+STU0196,Communication,79.18,10,6,8,38.63,73.82,4,0,3.64,Avancé
+STU0197,Management,93.01,10,5,6,37.84,89.64,7,0,4.3,Avancé
+STU0198,Python,50.59,6,3,7,35.84,38.66,3,3,3.23,En difficulté
+STU0199,Web,81.11,5,8,8,19.15,96.5,4,2,2.88,Moyen
+STU0200,Communication,40.19,3,0,11,8.21,4.06,1,1,2.03,Peu actif
+STU0201,Communication,83.24,10,7,8,58.47,84.71,4,1,4.18,Avancé
+STU0202,Python,72.75,4,6,8,22.46,77.64,3,2,3.02,Débutant
+STU0203,Communication,60.1,6,4,8,26.77,45.19,3,2,3.77,Débutant
+STU0204,Communication,80.98,7,8,11,45.06,73.07,7,0,4.71,Avancé
+STU0205,Web,85.56,8,7,7,26.99,100.0,5,0,4.52,Avancé
+STU0206,Management,86.99,10,7,10,27.59,73.85,4,0,4.17,Avancé
+STU0207,Python,28.47,9,0,6,47.72,1.92,3,4,2.68,En difficulté
+STU0208,Web,84.08,9,10,12,36.37,80.01,4,1,4.36,Avancé
+STU0209,Web,59.45,4,5,13,22.02,41.76,4,1,3.59,Moyen
+STU0210,Communication,69.03,11,11,12,42.13,95.07,6,0,4.43,Avancé
+STU0211,Web,75.06,6,5,6,42.89,83.77,5,0,4.06,Avancé
+STU0212,Management,63.14,4,6,7,49.31,84.55,4,1,4.11,Moyen
+STU0213,Communication,40.59,4,4,10,25.65,39.49,3,4,3.09,En difficulté
+STU0214,Management,55.24,1,4,13,8.7,34.04,1,3,3.28,Peu actif
+STU0215,Communication,50.93,8,7,11,21.85,64.56,4,2,4.18,Moyen
+STU0216,Python,51.52,7,3,7,33.12,46.74,3,1,3.42,Débutant
+STU0217,Web,77.02,7,11,14,31.99,80.63,6,1,4.52,Avancé
+STU0218,Python,68.91,7,6,12,36.64,47.74,3,2,4.54,Moyen
+STU0219,Communication,68.54,5,6,8,36.24,75.23,4,2,3.28,Moyen
+STU0220,Web,45.98,4,2,11,14.72,20.96,1,3,1.97,Peu actif
+STU0221,Data,50.29,0,4,11,12.14,39.12,0,2,1.66,Peu actif
+STU0222,Communication,77.5,4,8,8,17.94,96.07,4,2,3.34,Moyen
+STU0223,Communication,71.87,6,9,14,27.06,62.18,3,2,4.26,Moyen
+STU0224,Python,69.07,5,5,7,41.13,66.35,3,2,3.3,Moyen
+STU0225,Python,43.03,9,2,8,33.82,26.79,2,3,3.0,En difficulté
+STU0226,Web,77.75,9,6,6,29.95,97.5,6,0,4.59,Avancé
+STU0227,Management,21.57,8,4,9,16.83,46.89,2,5,3.42,En difficulté
+STU0228,Management,70.26,6,8,11,18.89,73.96,5,1,3.41,Moyen
+STU0229,Web,66.09,6,7,14,31.37,52.84,3,2,3.49,Moyen
+STU0230,Management,56.49,3,3,8,7.37,33.85,0,3,2.83,Peu actif
+STU0231,Web,88.57,6,14,14,35.57,100.0,4,1,4.39,Avancé
+STU0232,Communication,91.22,6,11,14,51.68,80.91,6,1,4.78,Avancé
+STU0233,Management,33.98,6,2,10,41.62,19.62,3,6,2.75,En difficulté
+STU0234,Python,81.77,4,8,13,32.01,63.99,3,1,4.09,Moyen
+STU0235,Communication,82.37,11,8,9,48.99,89.93,5,1,4.6,Avancé
+STU0236,Management,85.46,6,8,9,25.18,93.08,6,0,4.43,Avancé
+STU0237,Python,59.82,4,4,7,20.49,56.72,4,3,3.74,Débutant
+STU0238,Communication,91.65,8,7,8,37.34,89.65,5,1,3.84,Avancé
+STU0239,Communication,75.7,4,9,10,21.98,93.36,3,2,3.45,Moyen
+STU0240,Web,39.12,3,6,10,17.97,56.38,2,1,3.71,Débutant
+STU0241,Management,35.08,6,3,6,29.13,46.04,4,4,3.23,En difficulté
+STU0242,Management,42.09,8,7,12,24.58,56.53,2,6,3.34,En difficulté
+STU0243,Data,40.3,5,3,9,35.92,35.78,3,4,3.45,En difficulté
+STU0244,Data,93.92,6,12,12,32.8,100.0,7,0,4.31,Avancé
+STU0245,Python,46.19,5,10,14,22.05,71.93,3,1,2.52,Débutant
+STU0246,Data,89.16,10,10,13,32.04,79.4,4,1,4.42,Avancé
+STU0247,Python,74.12,6,5,6,36.43,82.84,4,0,4.72,Avancé
+STU0248,Communication,47.73,9,7,14,28.32,51.41,3,5,2.18,En difficulté
+STU0249,Management,26.31,6,7,14,32.32,51.97,4,5,2.45,En difficulté
+STU0250,Management,79.18,7,7,7,24.56,100.0,5,1,3.12,Moyen
+STU0251,Management,94.92,8,6,7,50.92,84.01,4,0,4.79,Avancé
+STU0252,Web,47.56,3,5,8,21.9,56.7,3,1,2.92,Débutant
+STU0253,Data,85.2,8,9,10,50.79,86.74,6,1,4.3,Avancé
+STU0254,Management,85.35,11,10,11,26.11,89.83,5,1,3.78,Avancé
+STU0255,Communication,81.6,4,0,7,16.14,6.94,0,1,2.17,Peu actif
+STU0256,Communication,66.65,7,8,13,33.98,59.33,5,1,2.61,Moyen
+STU0257,Python,66.36,6,10,11,36.49,93.01,3,1,3.15,Moyen
+STU0258,Data,54.47,7,4,10,32.71,40.69,2,3,3.07,En difficulté
+STU0259,Management,48.77,8,6,13,30.76,46.47,4,4,2.23,En difficulté
+STU0260,Web,68.15,7,8,11,38.1,72.84,4,2,2.71,Moyen
+STU0261,Web,63.23,6,8,10,21.35,81.49,3,2,4.28,Moyen
+STU0262,Management,72.17,7,9,13,27.94,72.74,3,1,3.68,Moyen
+STU0263,Communication,76.31,8,11,11,44.31,95.7,5,0,4.75,Avancé
+STU0264,Python,86.55,11,8,8,46.11,96.64,7,0,4.19,Avancé
+STU0265,Management,49.88,8,1,6,34.86,23.41,2,3,3.03,En difficulté
+STU0266,Web,37.0,5,4,11,13.67,31.91,3,4,1.55,En difficulté
+STU0267,Data,68.85,8,4,6,34.34,63.38,4,2,3.8,Moyen
+STU0268,Web,37.39,5,3,7,36.36,46.24,2,4,1.93,En difficulté
+STU0269,Python,37.61,6,3,6,32.8,55.51,2,4,3.51,En difficulté
+STU0270,Management,79.85,4,5,9,36.72,59.26,5,1,3.53,Moyen
+STU0271,Data,33.29,6,9,12,41.32,76.61,4,1,3.84,Débutant
+STU0272,Python,72.45,4,8,11,28.12,74.75,3,2,3.29,Moyen
+STU0273,Web,91.78,10,11,14,39.2,81.06,6,1,4.33,Avancé
+STU0274,Communication,46.73,6,4,8,37.56,47.27,4,3,2.54,En difficulté
+STU0275,Python,86.55,9,8,10,31.47,83.56,4,0,4.61,Avancé
+STU0276,Data,71.06,4,6,10,25.72,55.35,3,2,3.7,Moyen
+STU0277,Management,69.02,6,7,8,31.33,87.76,6,0,4.52,Avancé
+STU0278,Web,84.0,10,13,14,41.86,90.62,7,0,4.24,Avancé
+STU0279,Data,49.34,8,5,9,28.36,53.6,3,3,3.17,En difficulté
+STU0280,Python,35.91,4,10,14,15.87,74.47,2,6,2.09,En difficulté
+STU0281,Python,73.79,10,6,7,36.53,88.95,5,1,4.52,Avancé
+STU0282,Management,84.47,11,9,14,38.12,66.89,7,0,4.37,Avancé
+STU0283,Communication,95.88,9,9,11,35.31,83.59,6,1,4.22,Avancé
+STU0284,Python,75.33,10,7,9,50.39,77.17,6,1,4.44,Avancé
+STU0285,Communication,69.32,6,9,13,37.23,65.61,5,1,3.79,Moyen
+STU0286,Management,64.83,4,8,12,47.26,62.84,4,1,3.29,Moyen
+STU0287,Data,89.76,9,11,12,31.07,88.41,4,1,4.66,Avancé
+STU0288,Python,44.48,2,2,6,15.7,33.65,0,2,2.6,Peu actif
+STU0289,Data,64.92,0,1,6,10.76,16.01,0,2,2.11,Peu actif
+STU0290,Communication,80.15,11,10,10,31.71,100.0,5,0,4.81,Avancé
+STU0291,Python,44.23,5,3,6,20.13,57.3,3,2,2.35,Débutant
+STU0292,Web,55.37,3,4,13,5.91,28.71,1,3,2.47,Peu actif
+STU0293,Data,30.82,0,2,7,7.14,29.62,0,1,2.0,Peu actif
+STU0294,Data,89.75,10,7,7,42.58,94.08,4,1,4.41,Avancé
+STU0295,Data,38.24,7,2,9,41.75,26.35,3,5,3.67,En difficulté
+STU0296,Data,36.18,5,4,10,8.83,44.99,2,6,3.33,En difficulté
+STU0297,Python,71.76,6,7,9,16.35,73.57,3,2,3.32,Moyen
+STU0298,Data,100.0,6,5,6,32.62,76.29,7,0,4.37,Avancé
+STU0299,Management,64.94,1,1,9,7.01,5.84,0,3,1.87,Peu actif
+STU0300,Communication,89.41,10,13,14,36.48,93.26,4,1,4.49,Avancé
+STU0301,Data,71.93,8,10,12,29.39,85.42,4,1,3.51,Moyen
+STU0302,Python,66.93,1,3,13,11.07,20.95,0,3,1.45,Peu actif
+STU0303,Web,64.56,4,5,8,33.68,66.04,4,1,3.61,Moyen
+STU0304,Management,50.12,5,3,10,42.48,28.93,4,6,1.0,En difficulté
+STU0305,Communication,73.52,8,3,10,23.3,34.3,4,1,3.31,Moyen
+STU0306,Communication,63.25,6,4,7,24.15,53.41,5,1,4.34,Moyen
+STU0307,Communication,34.82,9,6,11,22.49,51.93,4,6,3.19,En difficulté
+STU0308,Python,76.97,7,10,14,33.44,73.6,7,1,4.59,Avancé
+STU0309,Web,30.94,0,5,14,11.56,32.93,0,2,3.17,Peu actif
+STU0310,Web,76.66,6,5,7,35.54,76.95,3,2,3.39,Moyen
+STU0311,Python,83.42,9,10,12,44.23,84.32,4,1,4.58,Avancé
+STU0312,Web,78.33,7,2,9,31.64,24.36,3,2,3.57,Moyen
+STU0313,Communication,58.76,5,10,13,8.36,77.11,2,1,3.09,Débutant
+STU0314,Web,55.05,0,3,13,4.94,21.97,0,3,1.63,Peu actif
+STU0315,Management,54.15,5,3,6,23.0,49.36,4,2,2.98,Débutant
+STU0316,Web,59.77,4,5,10,26.52,48.77,3,2,4.1,Moyen
+STU0317,Communication,66.03,8,3,6,18.0,57.63,4,1,3.35,Moyen
+STU0318,Python,33.97,6,7,14,28.32,50.1,3,6,3.0,En difficulté
+STU0319,Data,88.83,7,9,10,30.61,87.66,5,1,4.31,Avancé
+STU0320,Data,22.38,7,2,8,54.54,31.06,4,5,2.97,En difficulté
+STU0321,Management,69.66,6,6,9,22.22,65.83,5,1,3.54,Moyen
+STU0322,Python,68.92,8,6,11,36.11,54.49,4,2,4.19,Moyen
+STU0323,Management,75.4,5,5,11,23.94,43.27,4,2,3.07,Débutant
+STU0324,Data,31.22,4,4,6,13.76,70.43,4,3,2.47,En difficulté
+STU0325,Web,64.92,4,6,9,37.37,70.05,4,2,3.18,Moyen
+STU0326,Python,88.45,9,13,14,49.05,90.38,6,0,5.0,Avancé
+STU0327,Web,63.98,4,7,10,26.06,68.16,5,1,3.56,Moyen
+STU0328,Data,67.46,6,7,12,41.07,56.41,4,2,4.4,Moyen
+STU0329,Web,48.39,4,0,12,0.0,0.93,1,3,2.5,Peu actif
+STU0330,Communication,54.33,3,3,6,29.52,47.57,3,1,2.84,Débutant
+STU0331,Management,53.92,7,9,13,25.05,72.44,4,2,3.83,Débutant
+STU0332,Communication,59.45,4,7,14,9.59,49.25,4,2,2.91,Débutant
+STU0333,Data,62.48,7,7,11,19.95,65.05,5,2,4.09,Moyen
+STU0334,Web,79.9,7,6,9,29.32,66.02,4,1,3.67,Moyen
+STU0335,Python,78.95,9,7,9,40.83,79.06,7,0,3.75,Avancé
+STU0336,Python,44.54,8,4,12,7.81,36.52,3,6,2.76,En difficulté
+STU0337,Web,64.2,4,9,12,31.86,77.4,3,2,4.06,Moyen
+STU0338,Data,49.43,7,5,10,24.27,52.21,5,1,4.4,Moyen
+STU0339,Data,49.91,3,5,8,17.94,66.56,2,2,4.14,Débutant
+STU0340,Web,66.26,4,8,13,23.48,61.3,5,2,2.91,Moyen
+STU0341,Data,41.73,5,2,7,18.38,32.44,3,3,4.09,Débutant
+STU0342,Data,70.62,8,9,12,27.94,76.09,3,2,3.98,Moyen
+STU0343,Python,58.63,5,3,6,23.82,49.9,3,3,1.59,Débutant
+STU0344,Management,30.84,8,10,14,38.38,70.64,4,3,1.93,En difficulté
+STU0345,Communication,36.98,9,10,14,28.13,69.38,2,6,1.24,En difficulté
+STU0346,Management,61.6,4,8,13,28.46,64.24,4,2,3.58,Moyen
+STU0347,Management,73.31,7,8,11,22.69,70.56,3,1,3.5,Moyen
+STU0348,Management,27.48,2,4,12,17.45,31.2,1,2,2.72,Peu actif
+STU0349,Python,75.18,6,5,6,24.76,80.3,5,2,4.16,Moyen
+STU0350,Data,90.19,6,11,12,20.33,93.35,7,1,4.97,Avancé

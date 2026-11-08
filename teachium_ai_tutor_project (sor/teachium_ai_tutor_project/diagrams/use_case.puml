@@ -1,0 +1,18 @@
+@startuml
+left to right direction
+actor Apprenant
+actor Formateur
+actor Administrateur
+rectangle "Système de tutorat intelligent TEACHIUM" {
+  usecase "Analyser profil" as UC1
+  usecase "Recevoir recommandation" as UC2
+  usecase "Poser question au chatbot" as UC3
+  usecase "Consulter dashboard" as UC4
+  usecase "Évaluer performance" as UC5
+}
+Apprenant --> UC1
+Apprenant --> UC2
+Apprenant --> UC3
+Formateur --> UC4
+Administrateur --> UC5
+@enduml

@@ -1,0 +1,29 @@
+# --- API / Web ---
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+pydantic[email]==2.10.3
+python-multipart==0.0.19
+
+# --- Base de données (PostgreSQL hébergé sur Neon) ---
+SQLAlchemy==2.0.36
+psycopg2-binary==2.9.10
+
+# --- Authentification ---
+PyJWT==2.10.1
+bcrypt==4.2.1
+
+# --- Science des données / Machine Learning ---
+pandas==2.2.3
+numpy==2.2.6
+scikit-learn==1.8.0  # version ayant servi à entraîner les fichiers .joblib du projet
+joblib==1.4.2
+matplotlib==3.9.3
+
+# --- Dashboard Streamlit historique (optionnel, non requis) ---
+streamlit==1.41.1
+
+# --- Tests ---
+pytest==8.3.4
+httpx==0.28.1
+requests==2.32.3

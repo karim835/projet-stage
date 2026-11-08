@@ -1,0 +1,65 @@
+{
+  "accuracy": 0.8409,
+  "precision_weighted": 0.861,
+  "recall_weighted": 0.8409,
+  "f1_weighted": 0.8459,
+  "classes": [
+    "Avancé",
+    "Débutant",
+    "En difficulté",
+    "Moyen",
+    "Peu actif"
+  ],
+  "classification_report": {
+    "Avancé": {
+      "precision": 0.9411764705882353,
+      "recall": 1.0,
+      "f1-score": 0.9696969696969697,
+      "support": 16.0
+    },
+    "Débutant": {
+      "precision": 0.55,
+      "recall": 0.7333333333333333,
+      "f1-score": 0.6285714285714286,
+      "support": 15.0
+    },
+    "En difficulté": {
+      "precision": 0.8947368421052632,
+      "recall": 0.85,
+      "f1-score": 0.8717948717948718,
+      "support": 20.0
+    },
+    "Moyen": {
+      "precision": 0.9130434782608695,
+      "recall": 0.75,
+      "f1-score": 0.8235294117647058,
+      "support": 28.0
+    },
+    "Peu actif": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 9.0
+    },
+    "accuracy": 0.8409090909090909,
+    "macro avg": {
+      "precision": 0.8597913581908736,
+      "recall": 0.8666666666666668,
+      "f1-score": 0.8587185363655951,
+      "support": 88.0
+    },
+    "weighted avg": {
+      "precision": 0.8610088382138792,
+      "recall": 0.8409090909090909,
+      "f1-score": 0.8458914080571834,
+      "support": 88.0
+    }
+  },
+  "cluster_names": {
+    "0": "Moyen",
+    "1": "Peu actif",
+    "2": "Avancé",
+    "3": "Débutant",
+    "4": "En difficulté"
+  }
+}

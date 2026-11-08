@@ -1,0 +1,35 @@
+@startuml
+class Learner {
+  student_id
+  average_score
+  completion_rate
+  failed_quizzes
+}
+class ProfileModel {
+  features
+  classifier
+  scaler
+  predict_profile()
+}
+class RecommendationEngine {
+  rules
+  content_catalog
+  recommend_content()
+}
+class ChatbotService {
+  question
+  profile
+  generate_answer()
+}
+class FastAPIController {
+  profile_analyze()
+  recommendations()
+  chatbot_ask()
+}
+Learner --> ProfileModel
+ProfileModel --> RecommendationEngine
+RecommendationEngine --> ChatbotService
+FastAPIController --> ProfileModel
+FastAPIController --> RecommendationEngine
+FastAPIController --> ChatbotService
+@enduml
